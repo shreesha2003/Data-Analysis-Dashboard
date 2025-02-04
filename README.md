@@ -23,3 +23,8 @@ This project analyzes coffee sales data, categorizing sales by coffee type and o
 2. Use Excel functions, pivot tables, and charts to analyze the sales trends.
 3. Modify and extend the dataset for deeper insights.
 
+## Dashboard
+ 
+ ![Coffee Shop Data Analysis](https://github.com/user-attachments/assets/9ce78d34-97cd-4151-969d-35becf76bff4)
+
+
