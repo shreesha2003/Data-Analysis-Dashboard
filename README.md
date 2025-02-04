@@ -16,28 +16,10 @@ This project analyzes coffee sales data, categorizing sales by coffee type and o
 - Compare sales performance across years and months.
 
 ## Tools Used
-- **Python** (Pandas for data processing, Matplotlib/Seaborn for visualization)
-- **Excel** (Data storage and preliminary exploration)
+- **Excel** (Data storage, analysis, and visualization)
 
 ## How to Use
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/coffee-sales-analysis.git
-   ```
-2. Install dependencies:
-   ```bash
-   pip install pandas matplotlib seaborn
-   ```
-3. Run the analysis script (if available):
-   ```bash
-   python analyze_coffee_sales.py
-   ```
-
-## Future Enhancements
-- Build interactive dashboards using Power BI or Tableau.
-- Predict future sales using machine learning models.
-- Integrate more datasets for comprehensive market analysis.
-
-## Contributions
-Feel free to fork the repository and contribute improvements!
+1. Open the `coffeeOrdersData.xlsx` file in Microsoft Excel or any compatible software.
+2. Use Excel functions, pivot tables, and charts to analyze the sales trends.
+3. Modify and extend the dataset for deeper insights.
 
